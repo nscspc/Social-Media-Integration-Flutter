@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SparkAuth</string>
+    <string name="facebook_app_id">704080830692486</string>
+    <string name="fb_login_protocol_scheme">fb704080830692486</string>
+    <string name="facebook_client_token">62fd3481df7c848e94cffcf020098a54</string>
+</resources>
+
+<!-- 56789-->
+<!-- 1234-->

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273630822262",
+    "project_id": "sparkauth-7340f",
+    "storage_bucket": "sparkauth-7340f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273630822262:android:608079c9da3fc30a3a4457",
+        "android_client_info": {
+          "package_name": "com.example.spark_social_media_integration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273630822262-p2rkv1juldb0lmpusn4u9edb6utc14ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuGsIwOF_EZMDKyORFtUgXmc0xYMTol40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273630822262-p2rkv1juldb0lmpusn4u9edb6utc14ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
